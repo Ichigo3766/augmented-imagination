@@ -1,14 +1,14 @@
-# Augmented Imagination
+# Augmented Imagination: AI Image Creator
 
-Transform your ideas into stunning artwork with Augmented Imagination, a powerful iOS interface that connects to your Automatic1111/ForgeUI or OpenAI API. Whether you're an artist, designer, or creative enthusiast who already uses these AI image generation services, this app provides a beautiful and intuitive mobile interface to bring your imagination to life.
+[![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-black.svg?style=for-the-badge&logo=apple)](https://apps.apple.com/us/app/augmented-imagination/id6737791200)
 
-## ⚠️ Important Note
+> Transform your ideas into stunning artwork with Augmented Imagination, a powerful iOS interface that connects to your Automatic1111/ForgeUI or OpenAI API.
 
-This app requires access to either Automatic1111/ForgeUI or OpenAI API to function. These are separate services that must be set up before using this app. If you don't have access to either of these APIs, this app will not work for you.
+⚠️ **IMPORTANT**: This app requires access to either Automatic1111/ForgeUI or OpenAI API to function. These are separate services that must be set up before using this app. If you don't have access to either of these APIs, this app will not work for you.
 
-## 🌟 What Makes Augmented Imagination Special
+## 🎨 What Makes Augmented Imagination Special
 
-### 🎨 Intuitive Text-to-Image Generation
+### 🖼️ Intuitive Text-to-Image Generation
 - Simply describe what you want to see, and watch as advanced AI transforms your words into beautiful, detailed images in seconds.
 
 ### ⚙️ Professional-Grade Controls
@@ -18,7 +18,7 @@ This app requires access to either Automatic1111/ForgeUI or OpenAI API to functi
   - Guidance scales
 - Perfect for both beginners and professionals
 
-### 🔮 Smart Prompt Enhancement
+### 💡 Smart Prompt Enhancement
 - AI-powered prompt enhancement feature helps you craft the perfect descriptions for optimal results
 
 ### 📱 Elegant User Experience
@@ -38,16 +38,14 @@ This app requires access to either Automatic1111/ForgeUI or OpenAI API to functi
 - Secure connection to your preferred API endpoint
 - No account required to start creating
 
-## 💻 Technical Requirements
-
+## 📋 Technical Requirements
 - Compatible with iPhone and iPad
 - Internet connection required for image generation
 - Active installation of or access to either:
   - Automatic1111/ForgeUI
   - OpenAI API
 
-## 🎯 Perfect for
-
+## 👥 Perfect for:
 - Artists seeking inspiration
 - Designers needing quick concept visualization
 - Content creators looking for unique visuals
